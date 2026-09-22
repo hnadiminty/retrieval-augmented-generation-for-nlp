@@ -1,8 +1,18 @@
-# 🔍 Retrieval-Augmented Generation for NLP Research Papers
 
 <p align="center">
-  <img src="images/rag_pipeline.png" width="850">
+ # 🔍 Retrieval-Augmented Generation for NLP Research Papers
+
 </p>
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
+
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-green)
+
+![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
 A comprehensive **Retrieval-Augmented Generation (RAG)** pipeline for semantic search and citation-backed question answering over NLP research papers.
 
