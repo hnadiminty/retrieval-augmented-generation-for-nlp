@@ -1,5 +1,9 @@
 # 🔍 Retrieval-Augmented Generation for NLP Research Papers
 
+<p align="center">
+  <img src="images/rag_pipeline.png" width="850">
+</p>
+
 A comprehensive **Retrieval-Augmented Generation (RAG)** pipeline for semantic search and citation-backed question answering over NLP research papers.
 
 > This project was completed collaboratively as part of a five-member team, for the course:  CSE 575 – Statistical Machine Learning at Arizona State University
