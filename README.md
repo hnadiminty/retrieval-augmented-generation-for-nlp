@@ -20,12 +20,12 @@ The pipeline combines **semantic retrieval**, **keyword-based retrieval**, and *
 
 ## ✨ Features
 
-* 📄 Download and process NLP papers from arXiv
-* 🧩 PDF text extraction and document chunking
-* 🔍 Dense Retrieval using **FAISS**
-* 📚 Sparse Retrieval using **BM25**
-* ⚡ Hybrid Retrieval
-* 🤖 Multiple embedding models
+* Download and process NLP papers from arXiv
+* PDF text extraction and document chunking
+* Dense Retrieval using **FAISS**
+* Sparse Retrieval using **BM25**
+* Hybrid Retrieval
+* Multiple embedding models
 
   * SciBERT
   * MiniLM
@@ -35,9 +35,9 @@ The pipeline combines **semantic retrieval**, **keyword-based retrieval**, and *
 
   * Flan-T5
   * TinyLlama
-* 📖 Citation-aware responses
-* 📊 ROUGE & BLEU evaluation
-* 📈 Retrieval and scalability analysis
+* Citation-aware responses
+* ROUGE & BLEU evaluation
+* Retrieval and scalability analysis
 
 ---
 
