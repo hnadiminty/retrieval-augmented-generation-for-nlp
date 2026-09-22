@@ -1,0 +1,15 @@
+torch
+transformers
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+pandas
+matplotlib
+seaborn
+rouge-score
+nltk
+accelerate
+tqdm
+arxiv
+PyMuPDF
